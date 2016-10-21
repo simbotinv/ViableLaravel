@@ -1,3 +1,6 @@
+/_viable_db.txt is the database dump
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
